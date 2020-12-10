@@ -1,11 +1,11 @@
-# Minecraft Steve (Team-13)
+# Typescript Projects
 
 
 # Installation guide
   Download the zip file and unzip the file. 
 
 # Setting up the enviornment
-  Go to folder Team-13/grade-nope then run 'npm-install' to install all the packages in the grade-nope folder.
+  Go to folder grade-nope then run 'npm-install' to install all the packages in the grade-nope folder.
   
   Instructions to see the frontend: 
   
@@ -20,9 +20,9 @@
  
 
 # Running test
-  For our tests we are using the mocha package and all the test can be found in the Team-13/grade-nope/src/tests.
+  For the tests I use the mocha package and all the test can be found in the grade-nope/src/tests.
   
-  To run the tests first go to the folder Team-13/grade-nope then run the commandline 'npm test' to run the tests.
+  To run the tests first go to the folder grade-nope then run the commandline 'npm test' to run the tests.
 
 # Starting the application
 
