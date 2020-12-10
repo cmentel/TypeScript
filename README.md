@@ -1,4 +1,4 @@
-# Typescript Projects
+# Typescript Code Plagiarism Detection Algorithm and Website:
 
 
 # Installation guide
